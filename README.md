@@ -1,3 +1,3 @@
 # tf-idf-keywords
-tfidf
-使用语料库进行训练，测试原文中的关键字
+tf-idf
+使用corpus.txt以及en_corpus.txt两个语料库进行训练，获取原文.txt中的关键字
